@@ -1,10 +1,6 @@
 # infiniteScroll
 Estudo de scroll infinito utilizando React Native
 
-<div align="center">
-  <img src="login.gif">
-</div>
-
 
 
 
